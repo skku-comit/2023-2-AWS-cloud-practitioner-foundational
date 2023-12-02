@@ -2,7 +2,7 @@
 
 ## Members
 
-- [박지환](https://github.com/aptheparker)
+- [박지환](https://github.com/aptheparker) (스터디 리더)
 - 오성현
 - 박소정
 
