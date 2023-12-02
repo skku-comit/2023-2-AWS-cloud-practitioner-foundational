@@ -2,7 +2,7 @@
 
 ## Members
 
-- 박지환
+- [박지환] (https://github.io/aptheparker)
 - 오성현
 - 박소정
 
