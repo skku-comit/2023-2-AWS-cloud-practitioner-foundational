@@ -50,10 +50,3 @@
   22. Preparing for the Exam + Practice Exam - AWS Certified Cloud Practitioner<br>
   23. Congratulations - AWS Certified Cloud Practitioner<br>
   </details>
-
-## TODO
-```
-- 깃헙에 인원 초대.
-- 온라인 모임 날짜 정하기.
-- 각자 발표할 파트 정하기.
-```
