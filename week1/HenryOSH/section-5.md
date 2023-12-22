@@ -18,7 +18,7 @@
 
 - OS, CPU, RAM, Storage, Network, Firewall(security group), Bootstrap(EC2 User Data) 등을 커스터마이징 할 수 있다.
 
-### 1.1 EC2 Instance의 종류
+### 1.1. EC2 Instance의 종류
 
 - 표기법
 
@@ -34,7 +34,7 @@
 
 - 꿀팁: SSH Access를 위해 따로 하나의  security group을 만드는 게 좋다.
 
-  ### 2.1 포트 이름 의미
+  ### 2.1. 포트 이름 의미
       22 = SSH (Secure Shell) - log into a Linux instance
 
       21 = FTP (File Transfer Protocol) – upload files into a file share
@@ -54,6 +54,10 @@
 ## 4. SSH
 
 - start a terminal into our EC2 Instances (port 22)
+
+### 맥 터미널로 aws 리눅스 ssh 사용하여 접속하는 명령어
+     chmod 0400 EC2Tutorial.pem
+     ssh -i EC2S2.pem ec2-user@(Public IPv4 address)  
   
 ## 5. EC2 Instance Role
 
