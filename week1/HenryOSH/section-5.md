@@ -1,5 +1,9 @@
 # Section 5. EC2 - Elastic Compute Cloud
 
+# 들어가기에 앞서...
+
+- AWS Budget 설정
+
 ## 1. EC2 Instance
 
 - AMI (OS) + Instance Size (CPU + RAM) + Storage +security groups + EC2 User Data
