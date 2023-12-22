@@ -18,7 +18,7 @@
 
 - OS, CPU, RAM, Storage, Network, Firewall(security group), Bootstrap(EC2 User Data) 등을 커스터마이징 할 수 있다.
 
-## 1.1 EC2 Instance의 종류
+### 1.1 EC2 Instance의 종류
 
 - 표기법
 
