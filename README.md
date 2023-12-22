@@ -3,7 +3,7 @@
 ## Members
 
 - [박지환](https://github.com/aptheparker) (스터디 리더)
-- 오성현
+- [오성현](https://github.com/HenryOSH)
 - 박소정
 
 ## Study Schedule
