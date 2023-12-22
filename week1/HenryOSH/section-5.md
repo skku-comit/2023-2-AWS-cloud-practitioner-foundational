@@ -32,6 +32,8 @@
 
 - allow rule 로만 이루어짐 (어디서 왔는지 IP 주소 or 또다른 SG 참조함)
 
+- 꿀팁: SSH Access를 위해 따로 하나의  security group을 만드는 게 좋다.
+
 ## 3. EC2 User Data
 
 - Script launched at the first start of an instance
