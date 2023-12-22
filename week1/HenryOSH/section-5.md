@@ -3,6 +3,7 @@
 ### 들어가기에 앞서...
 ### AWS Budget 설정하는 법?
      Root 계정 - Billing and Cost Management
+     IAM 계정으로 조회하고 싶으면 Root 계정에서 Access 허용해야함!
   
 
 
