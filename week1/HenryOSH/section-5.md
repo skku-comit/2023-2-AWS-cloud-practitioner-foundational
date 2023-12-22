@@ -63,6 +63,8 @@
 
 - link to IAM roles
 
+- 절대 aws 리눅스 환경에서 aws configure 명령어로 나의 로그인 정보 입력하지 말것.! 위험함!
+
 ## 6. Purchasing Options
 
 - On-Demand, Spot, Reserved (Standard + Convertible), Dedicated Host, Dedicated Instance
