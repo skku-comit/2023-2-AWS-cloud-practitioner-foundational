@@ -70,9 +70,9 @@
 
 ## 6. Purchasing Options
 
-- On-Demand, Spot, Reserved (Standard + Convertible), Dedicated Host, Dedicated Instance
+- On-Demand, Spot, Reserved (Standard + Convertible), Dedicated Host, Dedicated Instance (리조트 비유)
+
+- aws 와 사용자 역할 정리
 
 
-<hr>
 
-## Helpful Resources
