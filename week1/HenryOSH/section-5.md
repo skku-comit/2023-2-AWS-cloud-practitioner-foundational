@@ -63,7 +63,10 @@
 
 - link to IAM roles
 
-- 절대 aws 리눅스 환경에서 aws configure 명령어로 나의 로그인 정보 입력하지 말것.! 위험함!
+- 절대 aws 리눅스 환경에서 aws configure 명령어로 나의 ID, key 정보 입력하지 말것.! 다른 유저가 볼 수 있어서 위험함!
+
+#### 따라서 IAM role 방법 사용.
+        먼저 만들어둔 IAM Role이 있어야함 - EC2 - Assistance - Security - Modify IAM role - 원하는 role 선택 - 확인
 
 ## 6. Purchasing Options
 
