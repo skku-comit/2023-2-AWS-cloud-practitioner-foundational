@@ -12,13 +12,11 @@
 
 ## 1. EC2란 무엇인가?
 
-- Renting virtual machunes(EC2) = EC2 instances
+- Renting virtual machunes(EC2) = EC2 instances, EBS, ELB, ASG (뒤에서 배울 예정)
 
-- EBS
+- EC2 instances는 ASW로부터 서버를 빌리는 것이다. 주문서와 비슷함. 옵션 설정 가능
 
-- ELB
-
-- ASG
+- OS, CPU, RAM, Storage, Network, Firewall(security group), Bootstrap 등을 커스터마이징 할 수 있다.
 
 ## 2. Security Groups
 
