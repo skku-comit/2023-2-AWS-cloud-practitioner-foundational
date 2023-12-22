@@ -1,7 +1,6 @@
 # Section 5. EC2 - Elastic Compute Cloud
 
-## 들어가기에 앞서...
-
+### 들어가기에 앞서...
 ### AWS Budget 설정하는 법?
     계정 - Billing and Cost Management
   
