@@ -4,7 +4,7 @@
 
 - AWS Budget 설정하는 법?
 
-    계정 - Billing and Cost Management
+-    계정 - Billing and Cost Management
 
 ## 1. EC2 Instance
 
