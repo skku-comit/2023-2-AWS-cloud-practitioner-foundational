@@ -2,7 +2,8 @@
 
 ## 들어가기에 앞서...
 
-- AWS Budget 설정
+- AWS Budget 설정하는 법
+- 과금 방지
 
 ## 1. EC2 Instance
 
