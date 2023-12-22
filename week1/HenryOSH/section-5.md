@@ -6,7 +6,7 @@
      
      IAM 계정으로 조회하고 싶으면 Root 계정에서 Access 허용해야함!
 
-     charges by service 난 없고 charges by account만 있음. 체크 요망.
+      charges by service 난 없고 charges by account만 있음. 체크 요망.
   
 
 
