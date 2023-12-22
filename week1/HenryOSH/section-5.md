@@ -10,9 +10,15 @@
   
 
 
-## 1. EC2 Instance
+## 1. EC2란 무엇인가?
 
-- AMI (OS) + Instance Size (CPU + RAM) + Storage +security groups + EC2 User Data
+- Renting virtual machunes(EC2) = EC2 instances
+
+- EBS
+
+- ELB
+
+- ASG
 
 ## 2. Security Groups
 
