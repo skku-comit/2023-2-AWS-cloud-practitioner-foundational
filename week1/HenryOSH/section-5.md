@@ -2,7 +2,7 @@
 
 ### 들어가기에 앞서...
 ### AWS Budget 설정하는 법?
-    Root 계정 - Billing and Cost Management
+     Root 계정 - Billing and Cost Management
   
 
 
