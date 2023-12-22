@@ -23,3 +23,8 @@
 ## 6. Purchasing Options
 
 - On-Demand, Spot, Reserved (Standard + Convertible), Dedicated Host, Dedicated Instance
+
+
+<hr>
+
+## Helpful Resources
