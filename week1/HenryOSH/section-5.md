@@ -28,6 +28,10 @@
 
 - Firewall attached to the EC2 instance
 
+- input과 output을 책임진다
+
+- allow rule 로만 이루어짐 (어디서 왔는지 IP 주소 or 또다른 SG 참조함)
+
 ## 3. EC2 User Data
 
 - Script launched at the first start of an instance
