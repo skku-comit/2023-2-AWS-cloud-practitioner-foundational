@@ -57,7 +57,7 @@
 
 ### 맥 터미널로 aws 리눅스 ssh 사용하여 접속하는 명령어
      chmod 0400 EC2Tutorial.pem
-     ssh -i EC2S2.pem ec2-user@(Public IPv4 address)  
+     ssh -i EC2Tutorial.pem ec2-user@(Public IPv4 address)  
   
 ## 5. EC2 Instance Role
 
