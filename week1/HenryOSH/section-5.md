@@ -18,6 +18,12 @@
 
 - OS, CPU, RAM, Storage, Network, Firewall(security group), Bootstrap(EC2 User Data) 등을 커스터마이징 할 수 있다.
 
+## 1.1 EC2 Instance의 종류
+
+- 표기법
+
+- 종류 ~~
+
 ## 2. Security Groups
 
 - Firewall attached to the EC2 instance
