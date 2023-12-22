@@ -16,7 +16,7 @@
 
 - EC2 instances는 ASW로부터 서버를 빌리는 것이다. 주문서와 비슷함. 옵션 설정 가능
 
-- OS, CPU, RAM, Storage, Network, Firewall(security group), Bootstrap 등을 커스터마이징 할 수 있다.
+- OS, CPU, RAM, Storage, Network, Firewall(security group), Bootstrap(EC2 User Data) 등을 커스터마이징 할 수 있다.
 
 ## 2. Security Groups
 
