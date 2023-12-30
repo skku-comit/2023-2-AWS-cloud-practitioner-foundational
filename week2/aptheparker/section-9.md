@@ -33,45 +33,45 @@
 - Supports SQL.
 - Can be connected to BI (Business Intelligence) tools like Tableau.
 
-## 7. EMR (Elastic MapReduce)
+## 6. EMR (Elastic MapReduce)
 
 - Create Hadoop clusters to process big data.
 - Used for big data processing and analysis.
 
-## 8. Athena
+## 7. Athena
 
 - Query data stored in S3 using SQL.
 - Serverless.
 
-## 9. Amazon QuickSight
+## 8. Amazon QuickSight
 
 - Business Intelligence tool.
 - Create dashboards and visualizations.
 - Can connect to many data sources, including AWS ones.
 
-## 10. DocumentDB
+## 9. DocumentDB
 
 - Managed MongoDB.
 - Serverless option available.
 
-## 11. Neptune
+## 10. Neptune
 
 - Managed graph database.
 - Good for relationship data.
 - Highly available across multiple AZs.
 
-## 12. Amazon QLDB
+## 11. Amazon QLDB
 
 - Managed ledger database.
 - Maintains a complete and verifiable history of data changes.
 - Centralized, immutable, and cryptographically verifiable.
 
-## 13. Amazon Managed Blockchain
+## 12. Amazon Managed Blockchain
 
 - Managed blockchain service.
 - Decentralized ledger that keeps a record of transactions.
 
-## 14. Glue (ETL) & DMS (Database Migration Service)
+## 13. Glue (ETL) & DMS (Database Migration Service)
 
 - Glue: ETL (Extract, Transform, Load) service.
   - Used to prepare and transform data for analytics.
@@ -81,5 +81,5 @@
     - Homogeneous migrations (e.g. Oracle to Oracle).
     - Heterogeneous migrations (e.g. Oracle to Aurora).
 
-## 15. RDS Multi-AZ vs Multi-Region vs Read Replicas
-![RDS Mutli-AZ vs Multi-Region vs Read Replicas](image.png)
+## 14. RDS Multi-AZ vs Multi-Region vs Read Replicas
+![RDS Mutli-AZ vs Multi-Region vs Read Replicas](img/section-9-image.png)
