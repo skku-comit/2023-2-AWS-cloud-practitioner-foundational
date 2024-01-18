@@ -28,7 +28,7 @@
 </details>
 
 ## 3. AMI (Amazon Machine Image)
-- customisation of an EC2 instance
+- Customization of an EC2 instance
 - built for a specific region (can be copied across regions)
 
 ## 4. EC2 Image Builder
