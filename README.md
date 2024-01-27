@@ -4,7 +4,7 @@
 
 - [박지환](https://github.com/aptheparker) (스터디 리더)
 - [오성현](https://github.com/HenryOSH)
-- 박소정
+- [박소정](https://github.com/qkrthwjd)
 
 ## Study Schedule
 - 1주차: 2023.12.18 ~ 2023.12.24 (4, 5, 6 챕터)
